@@ -8,7 +8,7 @@ public class AlstromAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AlstromAppApplication.class, args);
-		System.out.println(" Alstrom app started");
+		System.out.println(" Alstrom app started and working fine");
 	}
 
 }
